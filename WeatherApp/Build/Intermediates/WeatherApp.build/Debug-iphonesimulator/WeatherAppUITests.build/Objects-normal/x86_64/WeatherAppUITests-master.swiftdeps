@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "d81df25382e14790199697ac387c9320"
+build_time: [1516726812, 475076000]
+inputs:
+  "/Users/aathavale/Downloads/WeatherApp/WeatherApp/NetworkLayer.swift": [1516725934, 0]
+  "/Users/aathavale/Downloads/WeatherApp/WeatherApp/WeatherViewController.swift": [1516726674, 0]
+  "/Users/aathavale/Downloads/WeatherApp/WeatherApp/WeatherModel.swift": [1516680402, 0]
+  "/Users/aathavale/Downloads/WeatherApp/WeatherAppUITests/WeatherAppUITests.swift": [1516726812, 0]
